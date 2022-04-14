@@ -1,0 +1,13 @@
+Readme: The art assets for Powerwomen
+
+Trait labels  
+
+1 - Hair
+2 - Eyes
+3 - Lips
+4 - Accessories
+
+When you run the script, do it as follows
+(From the top layer to the base layer)
+
+4->3->2->1
